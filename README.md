@@ -5,4 +5,4 @@
 - [**Asset Class Hierarchical Clustering**](https://github.com/robertfmath/Asset-Class-Hierarchical-Clustering): hierarchically clustering major asset classes in the investment landscape, using their correlations to derive a measure of distance
 
 ### Other Work
-- [**Population Genetic Modeling**](https://github.com/robertfmath/Population-Genetic-Modeling): a module that provides functionality to model the genetics of biological populations and obtain population genetic statistics
+- [**Population Genetic Modeling**](https://github.com/robertfmath/Population-Genetic-Modeling): a repository that provides functionality to model the genetics of biological populations and obtain population genetic statistics
