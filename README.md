@@ -1,8 +1,8 @@
 # Contents
 
 ### Applications
-- [**Create Intro Cards**](https://github.com/robertfmath/Create-Intro-Cards): A Python module to generate a PDF of intro cards from a data set of individuals' attributes
-- [**The Chaos — Interactive**](https://github.com/robertfmath/The-Chaos-Interactive): An interactive web app built with React and TypeScript that explores the poem _The Chaos_ by Gerard Nolst Trenité, providing click-to-pronounce functionality and direct dictionary links
+- [**Create Intro Cards**](https://github.com/robertfmath/Create-Intro-Cards): A Python package that converts a dataset of individuals' names, photos, and custom attributes into a PDF of “intro cards” that describe each individual—all with a single function call.
+- [**The Chaos — Interactive**](https://github.com/robertfmath/The-Chaos-Interactive): An interactive web app built with React and TypeScript that explores the poem *The Chaos* by Gerard Nolst Trenité, providing click-to-pronounce functionality and direct dictionary links for key words.
 
 ### Data Science
 - [**Mammal Taxonomy Gradient Boosting Classifier**](https://github.com/robertfmath/Mammal-Taxonomy-Gradient-Boosting-Classifier): Predicting mammalian taxonomic order based on ecological, geographic, and life-history traits
