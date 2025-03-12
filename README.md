@@ -1,7 +1,7 @@
 # Contents
 
 ### Software
-- [**Create Intro Cards**](https://github.com/robertfmath/Create-Intro-Cards): A Python package that converts a dataset of individuals' names, photos, and custom attributes into a PDF of “intro cards” that describe each individual—all with a single function call.
+- [**create-intro-cards**](https://github.com/robertfmath/create-intro-cards): A Python package that converts a dataset of individuals' names, photos, and custom attributes into a PDF of “intro cards” that describe each individual—all with a single function call.
 - [**The Chaos — Interactive**](https://github.com/robertfmath/The-Chaos-Interactive): An interactive web app built with React and TypeScript that explores the poem *The Chaos* by Gerard Nolst Trenité, providing click-to-pronounce functionality and direct dictionary links for key words.
 
 ### Data Science
